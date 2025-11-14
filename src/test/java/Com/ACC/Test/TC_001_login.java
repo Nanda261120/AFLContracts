@@ -53,6 +53,8 @@ public class TC_001_login extends BeforeRunAndAfterRun {
 		Nv.verifyTheUserLandOnTheSignaturePage();
 		Nv.verifyTheElementsInTheSignaturePage();
 		
+		// new comment 
+		
 //		Configuration config = new Configuration();
 //		config.verifyTheMoreButtonIsAvailableInTheHeader();
 //		config.clickOnTheMoreButton();
